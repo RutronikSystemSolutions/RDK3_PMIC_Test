@@ -8,7 +8,7 @@ This code example demonstrates the CYB06447BZI-BLD53 Power Management IC functio
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v2.4
+- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.0
 
 ## The Provisioning of the RDK3
 
